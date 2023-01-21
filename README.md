@@ -5,25 +5,25 @@ Projeto final do curso extra **"Manipulando dados com SQL - Uma abordagem rápid
  <br>
 
  ## 🎲 Tabelas presentes no projeto
-- [ ] tabela CUSTOMERS (Clientes)
-- [ ] tabela CAR_MODEL (modelos)
-- [ ] tabela CAR_BRAND (marcas)
-- [ ] tabela POSITIONS (Cargos)
-- [ ] tabela EMPLOYEES (Funcionários)
-- [ ] tabela CARS (Carros)
-- [ ] tabela LOCATIONS (Locações)
+- [x] tabela CUSTOMERS (Clientes)
+- [x] tabela CAR_MODEL (modelos)
+- [x] tabela CAR_BRAND (marcas)
+- [x] tabela POSITIONS (Cargos)
+- [x] tabela EMPLOYEES (Funcionários)
+- [x] tabela CARS (Carros)
+- [x] tabela LOCATIONS (Locações)
 
  <br>
 
  ## ✔️ Tarefas concluidas
 - [x] Crie o banco de dados no SQlite com nome dbRentalcar
-- [ ] Construa uma query SQL para criar a tabela CUSTOMERS (Clientes) no banco de dados, e logo em seguida insira os clientes
-- [ ] Construa uma query SQL para criar a tabela CAR_MODEL (modelos) no banco de dados, e logo em seguida insira os modelos 
-- [ ] Construa uma query SQL para criar a tabela CAR_BRAND (marcas) no banco de dados, e logo em seguida insira as marcas 
-- [ ] Construa uma query SQL para criar a tabela POSITIONS (Cargos) no banco de dados, e logo em seguida insira os cargos 
-- [ ] Construa uma query SQL para criar a tabela EMPLOYEES (Funcionários) no banco de dados, e logo em seguida insira os funcionários
-- [ ] Construa uma query SQL para criar a tabela CARS (Carros) no banco de dados, e logo em seguida insira os automóveis
-- [ ] Construa uma query SQL para criar a tabela LOCATIONS (Locações) no banco de dados
+- [x] Construa uma query SQL para criar a tabela CUSTOMERS (Clientes) no banco de dados, e logo em seguida insira os clientes
+- [x] Construa uma query SQL para criar a tabela CAR_MODEL (modelos) no banco de dados, e logo em seguida insira os modelos 
+- [x] Construa uma query SQL para criar a tabela CAR_BRAND (marcas) no banco de dados, e logo em seguida insira as marcas 
+- [x] Construa uma query SQL para criar a tabela POSITIONS (Cargos) no banco de dados, e logo em seguida insira os cargos 
+- [x] Construa uma query SQL para criar a tabela EMPLOYEES (Funcionários) no banco de dados, e logo em seguida insira os funcionários
+- [x] Construa uma query SQL para criar a tabela CARS (Carros) no banco de dados, e logo em seguida insira os automóveis
+- [x] Construa uma query SQL para criar a tabela LOCATIONS (Locações) no banco de dados
 - [ ] Construa uma query SQL para editar o campo e-mail do cliente com nome Carolina, onde devemos trocar de “carol@ig.com.br” para “carolina@campuscode.com.br”.
 - [ ] Construa uma query SQL para editar a data de nascimento do cliente com nome Josefa para “1986-06-19”.
 - [ ] Construa uma query SQL para editar o ano do automóvel com nome Fiat Cronos de “2022” para “2019” da tabela de CARS
